@@ -1,4 +1,4 @@
-Object playlist = {
+var playlist = {
   daftPunk:"Digital Love",
 };
 function updatePlaylist(playlist, name, title){
